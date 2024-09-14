@@ -1,9 +1,8 @@
-## Hi there 👋
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Eickpinargotev/Eickpinargotev/blob/b55d457245c8dd9de83ab5a868e392fb9c2c066f/Erick_Pinargote_Banner.png" width="800"/>
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/erickpinargote)
 </div>
-
 <!--
 **Eickpinargotev/Eickpinargotev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
