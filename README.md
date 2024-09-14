@@ -2,7 +2,15 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/Eickpinargotev/Eickpinargotev/blob/b55d457245c8dd9de83ab5a868e392fb9c2c066f/Erick_Pinargote_Banner.png" width="800"/>
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickpinargote)
+<div id="linkedin-button" align="center">
+  <a href="https://www.linkedin.com/in/erickpinargote">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+<h1>
+  Hola soy Noelia. ¡Encantada de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **Eickpinargotev/Eickpinargotev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
