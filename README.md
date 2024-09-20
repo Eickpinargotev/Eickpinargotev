@@ -59,6 +59,14 @@ Durante mi carrera, evolucioné hacia la **ciencia de datos**, integrando mis ha
 
 ---
 
+## 🏆 Logros Académicos y Profesionales
+
+- Durante mi tesis, me enfoqué en la remodelación del sistema de municionamiento de la ametralladora **BREDA 40/70**, un proyecto que me permitió recibir altos honores por la calidad de mi trabajo.
+  
+- Gané la competencia **"5 Min Pitch"** en mi facultad, donde presenté mi tesis ante un jurado compuesto por expertos de la industria, empresarios y profesores, demostrando mi capacidad para entregar resultados sobresalientes bajo presión. Esta experiencia resaltó mi **dedicación** y **responsabilidad** hacia el cumplimiento de metas de alta calidad.
+
+---
+
 ## :fire: Mis Estadísticas
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eickpinargotev&theme=dark&background=000000)](https://git.io/streak-stats)
