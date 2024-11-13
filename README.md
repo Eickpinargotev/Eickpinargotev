@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Eickpinargotev/Eickpinargotev/blob/b55d457245c8dd9de83ab5a868e392fb9c2c066f/Erick_Pinargote_Banner_.png" width="800"/>
+  <img decoding="async" src="https://github.com/Eickpinargotev/Eickpinargotev/blob/b55d457245c8dd9de83ab5a868e392fb9c2c066f/Erick_Pinargote_Banne_.png" width="800"/>
 </div>
 
 <div id="linkedin-button" align="center">
