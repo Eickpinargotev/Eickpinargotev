@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/Eickpinargotev/Eickpinargotev/blob/main/DS_banner_.png" width="800"/>
+  <img decoding="async" src="https://github.com/Eickpinargotev/Eickpinargotev/blob/main/Blue%20Modern%20Geometric%20LinkedIn%20Banner.png" width="800"/>
 </div>
 
 <div id="linkedin-button" align="center">
