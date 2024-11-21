@@ -51,11 +51,10 @@
 
 ---
 
-## 🚀 Mi Historia
+## 🚀 Sobre mi
 
-Mi pasión por la automatización comenzó desde mi infancia, jugando videojuegos con bots que realizaban tareas por mí mientras podía dedicarme a otras actividades. Ese interés por automatizar procesos me llevó a estudiar **Ingeniería en Electrónica y Automatización y Control** en la **Universidad ESPOL**, donde descubrí que la programación y el análisis de datos eran esenciales para mejorar la eficiencia en la vida real. 
-
-Durante mi carrera, evolucioné hacia la **ciencia de datos**, integrando mis habilidades en **Machine Learning** y **Deep Learning** para crear soluciones automatizadas que optimizan procesos de negocio y trading.
+Durante mi carrera como ingeniero, evolucioné hacia la **ciencia de datos**, integrando mis habilidades en **Machine Learning** y **Deep Learning** para crear soluciones automatizadas que optimizan procesos de negocio y trading.
+Actualmente desarrollo algoritmos de trading usando aprendizaje automatico, optimización, aprendizaje supervisado y no supervisado, herramientas de estadistica inferencial y otras herramientas, logrando modelos predictivos muy eficientes que consiguen retornos positivos para una cuenta
 
 ---
 
