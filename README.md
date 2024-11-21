@@ -43,26 +43,24 @@
 
 ---
 
+## 🚀 Sobre mi
+
+Durante mi carrera como ingeniero, evolucioné hacia la **ciencia de datos**, integrando mis habilidades en **Machine Learning** y **Deep Learning** para crear soluciones automatizadas que optimizan procesos de negocio y trading.
+Actualmente desarrollo algoritmos de trading usando aprendizaje automatico, optimización, aprendizaje supervisado y no supervisado, herramientas de estadistica y matematicas, logrando modelos predictivos muy eficientes que puedes encontrar en mis proyectos destacados.
+
+---
+
 ## :hammer_and_wrench: Lenguajes y Herramientas
 
-- **Lenguajes**: Python, SQL, MQL5, HTML, CSS
-- **Herramientas**: TensorFlow, Keras, Scikit-learn, Jupyter Notebook, Google Colab, AWS
+- **Lenguajes**: Python(avazado), SQL(intermedio), MQL5(avanzado), HTML(basico), CSS(basico)
+- **Herramientas**: TensorFlow, Keras, Scikit-learn, Jupyter Notebook, Google Colab, AWS, Pandas, Optuna
 - **Otras habilidades**: Análisis de datos, Deep Learning, Trading automático, Web Scraping, Estadística avanzada
 
 ---
 
-## 🚀 Sobre mi
-
-Durante mi carrera como ingeniero, evolucioné hacia la **ciencia de datos**, integrando mis habilidades en **Machine Learning** y **Deep Learning** para crear soluciones automatizadas que optimizan procesos de negocio y trading.
-Actualmente desarrollo algoritmos de trading usando aprendizaje automatico, optimización, aprendizaje supervisado y no supervisado, herramientas de estadistica inferencial y otras herramientas, logrando modelos predictivos muy eficientes que consiguen retornos positivos para una cuenta
-
----
-
 ## 🏆 Logros Académicos y Profesionales
-
-- Durante mi tesis, me enfoqué en la remodelación del sistema de municionamiento de la ametralladora **BREDA 40/70**, un proyecto que me permitió recibir altos honores por la calidad de mi trabajo.
   
-- Gané la competencia **"5 Min Pitch"** en mi facultad, donde presenté mi tesis ante un jurado compuesto por expertos de la industria, empresarios y profesores, demostrando mi capacidad para entregar resultados sobresalientes bajo presión. Esta experiencia resaltó mi **dedicación** y **responsabilidad** hacia el cumplimiento de metas de alta calidad.
+- Gané la competencia **"5 Min Pitch"** en mi facultad, donde presenté mi tesis ante un jurado compuesto por expertos de la industria, empresarios y profesores, demostrando mi capacidad para entregar resultados sobresalientes. Esta experiencia resaltó mi **dedicación** y **responsabilidad** hacia el cumplimiento de mis metas.
 
 ---
 
